@@ -1,0 +1,3 @@
+br\com\minhaempresa\controller\DepositoController.class
+br\com\minhaempresa\service\ConsultarSaldoService.class
+br\com\minhaempresa\controller\ConsultaSaldoController.class
